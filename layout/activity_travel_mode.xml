@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.TravelModeActivity"
+    android:layoutDirection="ltr"
+    >
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        >
+        <!--android:scaleType="fitCenter"-->
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="@string/your_language_textView"
+            android:layout_marginTop="5dp"
+            android:textColor="#000"
+            android:textSize="15dp" />
+
+        <ImageView
+            android:paddingRight="15dp"
+            android:id="@+id/compare_icons"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_compare_arrows_black_24dp"/>
+
+        <Spinner
+            android:layout_toRightOf="@+id/compare_icons"
+            android:id="@+id/spinner"
+            android:entries="@array/all_languages"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            />
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/edittext_travel"
+        android:layout_marginTop="80dp"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/enter_your_text_ET"
+        android:background="@drawable/edittext_bg"
+        android:gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:layout_below="@+id/traveltoolbar"
+        />
+
+    <Button
+        android:id="@+id/button_translate"
+        android:layout_below="@+id/edittext_travel"
+        android:background="@drawable/start_bt"
+        android:layout_centerHorizontal="true"
+        android:text="@string/translate_button"
+        android:textColor="#fff"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/translated_text"
+        android:layout_marginTop="24dp"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/translated_text_textView"
+        android:background="@drawable/edittext_bg"
+        android:gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:layout_below="@+id/button_translate"
+        />
+
+
+</RelativeLayout>

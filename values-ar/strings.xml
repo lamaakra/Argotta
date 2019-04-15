@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat_3</string>
+    <string name="Username">اسم المستخدم</string>
+    <string name="Password">كلمه السر</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="CantLogIn">لا يمكن تسجيل الدخول؟</string>
+    <string name="CreateAccount">إصنع حساب</string>
+    <string name="Hello">مرحبا</string>
+    <string name="SwipeLeftToSelect">اسحب إلى اليسار لتحديد اللغة</string>
+    <string name="MyNameIsArgotta">اسمي ارجوتا، ما اسمك؟</string>
+    <string name="Name">الاسم </string>
+    <string name="FamilyName">اسم العائلة</string>
+    <string name="Next">التالى</string>
+    <string name="Country">البلد</string>
+    <string name="MobileNumber">رقم الهاتف المحمول</string>
+    <string name="WhereDoYouLive">أين تعيش؟</string>
+    <string name="FinalStep">الخطوة النهائية</string>
+    <string name="Email">البريد الإلكتروني</string>
+    <string name="ByCheckingThisBox">عن طريق تحديد هذا المربع، فإنك توافق على موقعنا </string>
+    <string name="PrivacyPolicy"> سياسة الخصوصية</string>
+    <string name="Register">تسجيل</string>
+    <string name="ForgotMyPassword">نسيت كلمة المرور الخاصة بي</string>
+
+    <string name="Users_textView">المستخدمين</string>
+
+    <string name="Chats_textView">المحادثات</string>
+    <string name="Send_Button">إرسال</string>
+    <string name="enter_message">أدخل رسالة</string>
+    <string name="profile_settings">الملف الشخصي</string>
+    <string name="change_language_settings">غير اللغة</string>
+    <string name="travel_mode_settings">وضع السفر</string>
+    <string name="settings_settings">إعدادات</string>
+    <string name="search_toolbar_trans">بحث</string>
+    <string name="signout_settings">خروج</string>
+
+    <string name="welcome_textView">أهلا بك</string>
+    <string name="letsgetstarted_textView">هيا بنا نبدأ!</string>
+    <string name="confirm_textView">تؤكد</string>
+
+    <string name="your_language_textView">لغتك</string>
+    <string name="translate_button">ترجمه</string>
+    <string name="enter_your_text_ET">أدخل النص الخاص بك</string>
+    <string name="translated_text_textView">النص المترجم</string>
+
+    <string name="profile_toolbar_white"><![CDATA[<font color=#FFFFFF>الملف الشخصي</font>]]></string>
+    <string name="travel_mode_white"><![CDATA[<font color=#FFFFFF>وضع السفر</font>]]></string>
+
+</resources>

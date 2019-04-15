@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/traveltoolbar"
+    android:background="#fff"
+
+    android:minHeight="?attr/actionBarSize"
+    app:theme="@style/ThemeOverlay.AppCompat.Light"
+
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--android:scaleType="fitCenter"-->
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="Your language"
+            android:layout_marginTop="5dp"
+            android:textColor="#000"
+            android:textSize="15dp" />
+        
+        <ImageView
+            android:paddingRight="15dp"
+            android:id="@+id/compare_icons"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:src="@drawable/ic_compare_arrows_black_24dp"/>
+
+        <Spinner
+            android:layout_toRightOf="@+id/compare_icons"
+            android:id="@+id/spinner"
+            android:entries="@array/all_languages"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            />
+
+    </RelativeLayout>
+</android.support.v7.widget.Toolbar>

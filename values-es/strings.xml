@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat_3</string>
+    <string name="Username">Nombre de usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="Login">Iniciar sesión</string>
+    <string name="CantLogIn">¿No puede iniciar sesión?</string>
+    <string name="CreateAccount">Crear cuenta</string>
+    <string name="Hello">Hola</string>
+    <string name="SwipeLeftToSelect">Desliza hacia la izquierda para seleccionar el idioma</string>
+    <string name="MyNameIsArgotta">Mi nombre es Argotta, ¿cuál es el tuyo?</string>
+    <string name="Name">Nombre</string>
+    <string name="FamilyName">Nombre de familia</string>
+    <string name="Next">Siguiente</string>
+    <string name="Country">País</string>
+    <string name="MobileNumber">Número de móvil</string>
+    <string name="WhereDoYouLive">¿Dónde vives?</string>
+    <string name="FinalStep">Paso final</string>
+    <string name="Email">Correo electrónico</string>
+    <string name="ByCheckingThisBox">Marcando esta casilla, usted acepta nuestra</string>
+    <string name="PrivacyPolicy">Política de privacidad</string>
+    <string name="Register">Registrarse</string>
+    <string name="ForgotMyPassword">Olvidé mi contraseña</string>
+
+    <string name="Users_textView">Usuarios</string>
+
+    <string name="Chats_textView">Conversaciones</string>
+    <string name="Send_Button">Enviar</string>
+    <string name="enter_message">Ingrese el mensaje</string>
+    <string name="profile_settings">Perfil</string>
+    <string name="change_language_settings">Cambiar idioma</string>
+    <string name="travel_mode_settings">Modo de viaje</string>
+    <string name="settings_settings">Configuraciones</string>
+    <string name="search_toolbar_trans">Buscar</string>
+    <string name="signout_settings">Desconectar</string>
+
+    <string name="welcome_textView">Bienvenido</string>
+    <string name="letsgetstarted_textView">¡Empecemos!</string>
+    <string name="confirm_textView">Confirmar</string>
+
+    <string name="your_language_textView">Tu lenguaje</string>
+    <string name="translate_button">Traducir</string>
+    <string name="enter_your_text_ET">Ingrese su texto</string>
+    <string name="translated_text_textView">Texto traducido</string>
+
+    <string name="profile_toolbar_white"><![CDATA[<font color=#FFFFFF>Perfil</font>]]></string>
+    <string name="travel_mode_white"><![CDATA[<font color=#FFFFFF>Modo de viaje</font>]]></string>
+
+</resources>

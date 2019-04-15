@@ -1,0 +1,346 @@
+<resources>
+    <string name="app_name">Chat_3</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="CantLogIn">Cant log in?</string>
+    <string name="CreateAccount">Create account</string>
+    <string name="Hello">Hello</string>
+    <string name="SwipeLeftToSelect">Swipe left to select language</string>
+    <string name="MyNameIsArgotta">My name is Argotta, whats yours?</string>
+    <string name="Name">Name</string>
+    <string name="FamilyName">Family Name</string>
+    <string name="Next">Next</string>
+    <string name="Country">Country</string>
+    <string name="MobileNumber">Mobile Number</string>
+    <string name="WhereDoYouLive">Where do you live?</string>
+    <string name="FinalStep">Final Step</string>
+    <string name="Email">Email</string>
+    <string name="ByCheckingThisBox">by checking this box, you agree to our</string>
+    <string name="PrivacyPolicy">Privacy policy</string>
+    <string name="Register">Register</string>
+    <string name="ChangeLang">Change Language</string>
+
+
+    <string name="aaaccc">العربية</string>
+    <string name="aaacc">Español</string>
+    <string name="aaac">Français</string>
+
+
+    <string-array name="all_languages">
+        <item>Afrikaans</item>
+        <item>Shqip, Shqiptar</item>
+        <item>ኣማርኛ</item>
+
+        <item>العربية</item>
+
+        <item>Հայերեն</item>
+        <item>Azərbaycanca</item>
+        <item>Euskara</item>
+        <item>Беларуская</item>
+        <item>বাংলা</item>
+        <item>Босански, Bosanski</item>
+        <item>български език</item>
+        <item>မြန်မာစကား</item>
+        <item>Català</item>
+        <item>Bisaya, Sinugboanon</item>
+        <item>Nyanja</item>
+
+        <item>文言</item>
+
+        <item>Corsu</item>
+        <item>Hrvatski</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Nederlands</item>
+
+        <item>English</item>
+
+        <item>Esperanto</item>
+        <item>Eesti</item>
+        <item>Wikang Filipino</item>
+        <item>Suomi</item>
+
+        <item>Français</item>
+
+        <item>Noordfreesk</item>
+        <item>Galego</item>
+        <item>ქართული</item>
+        <item>Deutsch</item>
+        <item>ελληνικά</item>
+        <item>ગુજરાતી</item>
+        <item>Haitian Creole</item>
+        <item>حَوْس</item>
+        <item>ʻŌlelo Hawaiʻi</item>
+        <item>עברי‬</item>
+        <item>हिन्दी</item>
+        <item>lug Moob</item>
+        <item>Magyar</item>
+        <item>Íslenska</item>
+        <item>Asụsụ Igbo</item>
+        <item>Bahasa</item>
+        <item>Gaeilge</item>
+        <item>Italiano</item>
+        <item>日本語</item>
+        <item>ꦧꦱꦗꦮ</item>
+        <item>ಕನ್ನಡ</item>
+        <item>Қазақ Tілі</item>
+        <item>ភាសាខ្មែរ</item>
+        <item>조선말, 한국어</item>
+        <item>Kurdí</item>
+        <item>Kyrgyz</item>
+        <item>ພາສາລາວ</item>
+        <item>Latina</item>
+        <item>Latviešu</item>
+        <item>Lietuvių</item>
+        <item>Lëtzebuergesch</item>
+        <item>Mакедонски</item>
+        <item>Malagasy</item>
+        <item>Bahasa Melayu</item>
+        <item>മലയാളം</item>
+        <item>Malti</item>
+        <item>te Reo Māori</item>
+        <item>मराठी</item>
+        <item>Монгол Хэл</item>
+        <item>नेपाली</item>
+        <item>Norsk (Bokmål)</item>
+        <item>پښتو</item>
+        <item>فارس</item>
+        <item>Polski</item>
+        <item>Português</item>
+        <item>पंजाबी</item>
+        <item>Română</item>
+        <item>русский</item>
+        <item>Gagana Sāmoa</item>
+        <item>Scots Gaelic</item>
+        <item>Serbian</item>
+        <item>Sesotho</item>
+        <item>Shona</item>
+        <item> سنڌي</item>
+        <item>සිංහල</item>
+        <item>Slovenčina</item>
+        <item>Slovenian</item>
+        <item>الصومالية</item>
+
+        <item>Español</item>
+
+        <item>Sundanese</item>
+        <item>Kiswahili</item>
+        <item>Svenska</item>
+        <item>Tajik</item>
+        <item>தமிழ்</item>
+        <item>Telugu</item>
+        <item>คนไทย</item>
+        <item>Türkçe</item>
+        <item>Українська мова</item>
+        <item>اُردُو</item>
+        <item>اوزبیک</item>
+        <item>Tiếng Việt Nam</item>
+        <item>Cymraeg</item>
+        <item>Xhosa</item>
+        <item>ייִדיש ייִדיש‬</item>
+        <item>Èdè Yorùbá</item>
+        <item>Zulu</item>
+    </string-array>
+
+    <string-array name="english_languages">
+        <item>Afrikaans</item>
+        <item>Albanian</item>
+        <item>Amharic</item>
+        <item>Arabic</item>
+        <item>Armenian</item>
+        <item>Azerbaijani</item>
+        <item>Basque</item>
+        <item>Belarusian</item>
+        <item>Bengali</item>
+        <item>Bosnian</item>
+        <item>Bulgarian</item>
+        <item>Burmese</item>
+        <item>Catalan</item>
+        <item>Cebuano</item>
+        <item>Chichewa</item>
+        <item>Chinese</item>
+        <item>Corsican</item>
+        <item>Croatian</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Dutch </item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Estonian</item>
+        <item>Filipino</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Frisian</item>
+        <item>Galician</item>
+        <item>Georgian</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Gujarati</item>
+        <item>Haitian Creole</item>
+        <item>Hausa</item>
+        <item>Hawaiian</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hmong</item>
+        <item>Hungarian</item>
+        <item>Icelandic</item>
+        <item>Igbo</item>
+        <item>Indonesian</item>
+        <item>Irish</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Javanese</item>
+        <item>Kannada</item>
+        <item>Kazakh</item>
+        <item>Khmer</item>
+        <item>Korean</item>
+        <item>Kurdish</item>
+        <item>Kyrgyz</item>
+        <item>Lao</item>
+        <item>Latin</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Luxembourgish</item>
+        <item>Macedonian</item>
+        <item>Malagasy</item>
+        <item>Malay</item>
+        <item>Malayalam</item>
+        <item>Maltese</item>
+        <item>Maori</item>
+        <item>Marathi</item>
+        <item>Mongolian </item>
+        <item>Nepali </item>
+        <item>Norwegian (Bokmål)</item>
+        <item>Pashto</item>
+        <item>Persian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Punjabi</item>
+        <item>Romanian</item>
+        <item>Russian</item>
+        <item>Samoan</item>
+        <item>Scots Gaelic</item>
+        <item>Serbian</item>
+        <item>Sesotho</item>
+        <item>Shona</item>
+        <item>Sindhi</item>
+        <item>Sinhala</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Somali</item>
+        <item>Spanish</item>
+        <item>Sundanese</item>
+        <item>Swahili</item>
+        <item>Swedish</item>
+        <item>Tajik</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Urdu</item>
+        <item>Uzbek</item>
+        <item>Vietnamese</item>
+        <item>Welsh</item>
+        <item>Xhosa</item>
+        <item>Yiddish</item>
+        <item>Yoruba</item>
+        <item>Zulu</item>
+    </string-array>
+
+    <string-array name="engines">
+        <item>Google Cloud</item>
+        <item>Azure</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Ahmad</item>
+        <item>Kassabieh</item>
+    </string-array>
+
+    <string-array name="email">
+        <item>ahmadkassabieh@hotmail.com</item>
+        <item>ahmad_kassabieh@msn.com</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <string name="all_letters">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ诶比西迪伊艾弗吉艾尺艾杰开艾勒艾马艾娜哦
+屁吉吾艾儿艾丝	提伊吾维豆贝尔维艾克斯吾艾贼德ألألآآضصثقفغعهخحجدطكمنتالبيسشئءؤرلاىةوزظñéâêîôûàèùëïüç</string>
+
+</resources>

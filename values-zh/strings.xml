@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat_3</string>
+    <string name="Username"> 用户名 </string>
+    <string name="Password">密码</string>
+    <string name="Login">登录 </string>
+    <string name="CantLogIn">无法登录？</string>
+    <string name="CreateAccount">创建帐号 </string>
+    <string name="Hello"> 你好 </string>
+    <string name="SwipeLeftToSelect">向左滑动以选择语言</string>
+    <string name="MyNameIsArgotta">我的名字是阿尔戈塔，你是什么？</string>
+    <string name="Name">名称</string>
+    <string name="FamilyName">姓</string>
+    <string name="Next">下一个</string>
+    <string name="Country">国家</string>
+    <string name="MobileNumber">手机号码</string>
+    <string name="WhereDoYouLive">你住在哪里？</string>
+    <string name="FinalStep">最后一步</string>
+    <string name="Email">电子邮件</string>
+    <string name="ByCheckingThisBox">通过选中此框，您同意我们的</string>
+    <string name="PrivacyPolicy">隐私政策</string>
+    <string name="Register">寄存器</string>
+    <string name="ForgotMyPassword">忘了我的密码</string>
+
+    <string name="Users_textView">用户</string>
+    <string name="Chats_textView">聊天</string>
+    <string name="Send_Button">发送</string>
+    <string name="enter_message">输入消息</string>
+    <string name="profile_settings">轮廓</string>
+    <string name="change_language_settings">改变语言</string>
+    <string name="travel_mode_settings">旅行模式</string>
+    <string name="settings_settings">设置</string>
+    <string name="search_toolbar_trans">搜索</string>
+    <string name="signout_settings">登出</string>
+
+    <string name="welcome_textView">欢迎</string>
+    <string name="letsgetstarted_textView">让我们开始吧！</string>
+    <string name="confirm_textView">確認</string>
+
+    <string name="your_language_textView">你的语言</string>
+    <string name="translate_button">翻译</string>
+    <string name="enter_your_text_ET">输入你的文字</string>
+    <string name="translated_text_textView">翻译文本</string>
+
+    <string name="profile_toolbar_white"><![CDATA[<font color=#FFFFFF>轮廓</font>]]></string>
+    <string name="travel_mode_white"><![CDATA[<font color=#FFFFFF>旅行模式</font>]]></string>
+
+</resources>
